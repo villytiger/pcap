@@ -34,6 +34,8 @@
  * @(#) $Header: /tcpdump/master/libpcap/pcap/pcap.h,v 1.15 2008-10-06 15:27:32 gianluca Exp $ (LBL)
  */
 
+module deimos.pcap.pcap;
+
 import core.stdc.config;
 import core.stdc.stdio;
 import core.sys.posix.sys.time;

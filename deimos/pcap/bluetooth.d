@@ -33,6 +33,8 @@
  * @(#) $Header: /tcpdump/master/libpcap/pcap/bluetooth.h,v 1.1 2007-09-22 02:10:17 guy Exp $
  */
 
+module deimos.pcap.bluetooth;
+
 extern (C) nothrow:
 
 /*

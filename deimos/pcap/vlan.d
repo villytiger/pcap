@@ -33,6 +33,8 @@
  * @(#) $Header: /tcpdump/master/libpcap/pcap/vlan.h,v 1.1 2008-08-06 07:45:00 guy Exp $
  */
 
+module deimos.pcap.vlan;
+
 extern (C) nothrow:
 
 struct vlan_tag {

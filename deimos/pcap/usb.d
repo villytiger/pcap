@@ -33,6 +33,8 @@
  * @(#) $Header: /tcpdump/master/libpcap/pcap/usb.h,v 1.9 2008-12-23 20:13:29 guy Exp $
  */
 
+module deimos.pcap.usb;
+
 extern (C) nothrow:
 
 /*

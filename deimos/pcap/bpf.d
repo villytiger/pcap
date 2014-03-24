@@ -71,6 +71,8 @@
  * This also provides our own multiple-include protection.
  */
 
+module deimos.pcap.bpf;
+
 extern (C) nothrow:
 
 /* BSD style release date */

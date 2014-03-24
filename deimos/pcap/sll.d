@@ -73,6 +73,8 @@
  * packets in them.
  */
 
+module deimos.pcap.sll;
+
 extern (C) nothrow:
 
 /*

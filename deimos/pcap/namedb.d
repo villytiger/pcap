@@ -33,6 +33,8 @@
  * @(#) $Header: /tcpdump/master/libpcap/pcap/namedb.h,v 1.1 2006-10-04 18:09:22 guy Exp $ (LBL)
  */
 
+module deimos.pcap.namedb;
+
 import core.stdc.stdio;
 import core.sys.posix.netdb;
 

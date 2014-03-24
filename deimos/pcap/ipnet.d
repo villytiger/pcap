@@ -36,6 +36,8 @@
  * SUCH DAMAGE.
  */
 
+module deimos.pcap.ipnet;
+
 extern (C) nothrow:
 
 enum {
