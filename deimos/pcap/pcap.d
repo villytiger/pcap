@@ -39,7 +39,7 @@ import core.stdc.stdio;
 import core.sys.posix.sys.time;
 import core.sys.posix.sys.socket;
 
-import bpf;
+import deimos.pcap.bpf;
 
 extern (C) nothrow:
 
